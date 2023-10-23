@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leonardo.</h1>
 <h3 align="center">A passionate software developer from Argentina.</h3>
 
+My stack: Node.js | Express | React | Redux | JavaScript | Sequelize | Firebase | PostgreSQL
+
 - 🔭 I just finished my last project [HealthPlus](https://health-plus-henry.netlify.app/)
 
 - 📫 How to reach me **leomicale.lm@gmail.com**
