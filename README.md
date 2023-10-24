@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leonardo.</h1>
 <h3 align="center">A passionate software developer from Argentina.</h3>
-<h2 align="center">In my last experiences, I integrated groups of people
+<h3 align="center">In my last experiences, I integrated groups of people
   who were working with agile methods. I learned a lot about persons
   and how important relationships are within workgroups. My goal is always
-  to improve and help my coworkers do the same.</h2>
+  to improve and help my coworkers do the same.</h3>
 
 My stack: Node.js | Express | React | Redux | JavaScript | Sequelize | Firebase | PostgreSQL
 
