@@ -7,7 +7,7 @@ My stack: Node.js | Express | React | Redux | JavaScript | Sequelize | Firebase 
 
 - 📫 How to reach me **leomicale.lm@gmail.com**
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leonardo-em/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-em/" height="20" width="20" /></a>
+- Linkedin <a href="https://linkedin.com/in/https://www.linkedin.com/in/leonardo-em/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-em/" height="20" width="20" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
