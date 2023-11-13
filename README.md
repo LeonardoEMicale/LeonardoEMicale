@@ -6,8 +6,11 @@
   to improve and help my coworkers do the same.</h3>
 
 My stack: 
+<br/>
 BACK END DEVELOPMET | Node.js * Express
+<br/>
 FRONT END DEVELOPMET | React * Redux * JavaScript * Tailwind CSS
+<br/>
 DATABASES | Firebase * PostgreSQL * MongoDB
 
 - 🔭 I just finished my last project [HealthPlus](https://health-plus-henry.netlify.app/)
