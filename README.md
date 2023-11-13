@@ -10,7 +10,7 @@ BACK END DEVELOPMET | Node.js * Express
 FRONT END DEVELOPMET | React * Redux * JavaScript * Tailwind CSS
 DATABASES | Firebase * PostgreSQL * MongoDB
 
-- 🔭 I just finished my last project <a href="https://health-plus-henry.netlify.app/" target="blank" rel="noopener noreferrer" height="20" width="20">📁</a>
+- 🔭 I just finished my last project <a href="https://health-plus-henry.netlify.app/" target="blank" rel="noopener noreferrer" style={{ textDecoration: "none" }} height="20" width="20">Healthplus</a>
 - My Portfolio          <a href="https://leonardo-micale.netlify.app/" target="blank" rel="noopener noreferrer" height="20" width="20">📁</a>
 - 📫 How to reach me **leomicale.lm@gmail.com**
 - Linkedin          <a href="https://linkedin.com/in/https://www.linkedin.com/in/leonardo-em/" rel="noopener noreferrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-em/" height="20" width="20" /></a>
